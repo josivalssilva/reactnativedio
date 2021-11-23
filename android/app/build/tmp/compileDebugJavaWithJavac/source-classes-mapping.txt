@@ -1,0 +1,14 @@
+com/reactnativedio/MainApplication.java
+ com.reactnativedio.MainApplication
+ com.reactnativedio.MainApplication$1
+com/reactnativedio/MainActivity.java
+ com.reactnativedio.MainActivity
+com/reactnativedio/ReactNativeFlipper.java
+ com.reactnativedio.ReactNativeFlipper
+ com.reactnativedio.ReactNativeFlipper$1
+ com.reactnativedio.ReactNativeFlipper$2
+ com.reactnativedio.ReactNativeFlipper$2$1
+com/reactnativedio/BuildConfig.java
+ com.reactnativedio.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
